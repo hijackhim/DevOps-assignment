@@ -7,7 +7,7 @@ resource "google_app_engine_standard_app_version" "app" {
   project     = var.project_id
   service     = "default"
   version_id  = "v1"
-  runtime     = "nodejs14"
+  runtime     = "nodejs22"
   entrypoint {
     shell = "node app.js"
   }
