@@ -43,7 +43,7 @@ module "app_engine" {
   db_name        = var.db_name
   db_user        = var.db_user
   db_password    = var.db_password
-  app_source     = "../../hello-world.zip"
+  app_source     = "https://storage.googleapis.com/your-bucket-name/hello-world.zip"
 }
 
 variable "project_id" {
