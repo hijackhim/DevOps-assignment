@@ -29,6 +29,6 @@ Steps of Execution
 
   ![image](https://github.com/hijackhim/DevOps-assignment/assets/105789918/9239c619-9172-4b55-831d-6d591088bb71)
 
-    ![seventh3](https://github.com/hijackhim/DevOps-assignment/assets/105789918/4c0f7a5d-44b8-48b3-88b5-b6c6fd4e6268)
+   ![seventh3](https://github.com/hijackhim/DevOps-assignment/assets/105789918/4c0f7a5d-44b8-48b3-88b5-b6c6fd4e6268)
 
     I have reached the limit for project 
